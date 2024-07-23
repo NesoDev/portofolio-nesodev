@@ -4,7 +4,7 @@
 }
 
 body {
-    height: 100vh;
+    height: 100dvh;
     width: 100%;
     background: #01030C;
     display: flex;
